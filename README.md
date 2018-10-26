@@ -1,2 +1,2 @@
 # gitskills
-changetest
+change_mz_test and test
