@@ -1,6 +1,2 @@
 # gitskills
-<<<<<<< HEAD
-test up
-=======
-change_mz_test and test121
->>>>>>> dev
+Creating a new branch is quick & simple.
